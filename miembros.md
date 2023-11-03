@@ -18,4 +18,5 @@
 * Vision
 * Wasp
 * Antman
-*Swamp Thing
+* Swamp Thing
+* Nova
